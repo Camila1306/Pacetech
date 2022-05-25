@@ -1,0 +1,13 @@
+programa
+{
+     real salario, aumento
+	
+	funcao inicio()
+	{
+		escreva("Informe o salario ")
+		leia(salario)
+		aumento = salario*1.3
+		escreva("\nValor do salario com aumento = ", aumento)	
+		
+	}
+}
